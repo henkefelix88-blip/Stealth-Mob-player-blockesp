@@ -1,0 +1,4 @@
+#!/bin/sh
+# Gradle wrapper - download full Gradle before building
+# Run: ./gradlew build
+exec gradle "$@"

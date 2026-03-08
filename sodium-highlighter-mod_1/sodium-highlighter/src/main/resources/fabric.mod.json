@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "sodium",
+  "version": "${version}",
+  "name": "Sodium Highlighter",
+  "description": "Client-side entity, block and player highlighter with custom colors and GUI.",
+  "authors": ["sodium"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/sodium/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.sodium.highlighter.client.SodiumHighlighterClient"
+    ]
+  },
+  "mixins": [
+    "sodium.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}

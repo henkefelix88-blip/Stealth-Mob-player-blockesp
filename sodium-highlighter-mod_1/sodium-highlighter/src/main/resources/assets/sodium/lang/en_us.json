@@ -1,0 +1,15 @@
+{
+  "sodium.highlighter.title": "Sodium Highlighter",
+  "sodium.highlighter.tab.entities": "Entities",
+  "sodium.highlighter.tab.blocks": "Blocks",
+  "sodium.highlighter.tab.players": "Players",
+  "sodium.highlighter.enabled": "Highlighter Enabled",
+  "sodium.highlighter.add": "Add Entry",
+  "sodium.highlighter.remove": "Remove",
+  "sodium.highlighter.color": "Color",
+  "sodium.highlighter.name": "Name / ID",
+  "sodium.highlighter.opacity": "Opacity",
+  "sodium.highlighter.through_walls": "Through Walls",
+  "sodium.highlighter.key.open_gui": "Open Highlighter GUI",
+  "sodium.highlighter.key.toggle": "Toggle Highlighter"
+}
